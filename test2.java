@@ -3,4 +3,5 @@
  */
 public class test2 {
     newNazva;
+    master
 }
