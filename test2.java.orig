@@ -3,6 +3,9 @@
  */
 public class test2 {
     newNazva;
-    nazva
+<<<<<<< HEAD
     master
+=======
+    nazva
+>>>>>>> nazva
 }
